@@ -57,7 +57,6 @@ cd autopartsmanager
 
 3️⃣ Instalar as dependências do front-end
 ```bash
-cd frontend
 npm install
 # ou
 yarn install
